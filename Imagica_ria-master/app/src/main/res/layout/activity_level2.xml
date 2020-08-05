@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Level2">
+
+    <ImageView
+        android:id="@+id/lev2_1"
+        android:layout_width="match_parent"
+        android:layout_height="350dp" />
+
+    <ImageView
+        android:id="@+id/lev2_2"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="350dp" />
+
+    <ImageView
+        android:id="@+id/lev2_diff1"
+        android:layout_width="87dp"
+        android:layout_height="77dp"
+        android:layout_alignBottom="@+id/lev2_1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="116dp"
+        android:layout_marginBottom="108dp" />
+
+    <ImageView
+        android:id="@+id/lev2_diff2"
+        android:layout_width="77dp"
+        android:layout_height="59dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="268dp"
+        android:layout_marginBottom="491dp" />
+
+    <ImageView
+        android:id="@+id/lev2_diff3"
+        android:layout_width="65dp"
+        android:layout_height="63dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="340dp"
+        android:layout_marginBottom="417dp" />
+
+    <ImageView
+        android:id="@+id/lev2_diff4"
+        android:layout_width="85dp"
+        android:layout_height="62dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="254dp"
+        android:layout_marginBottom="366dp" />
+
+
+</RelativeLayout>

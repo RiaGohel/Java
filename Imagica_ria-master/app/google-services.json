@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993355869533",
+    "firebase_url": "https://imagica-3c334.firebaseio.com",
+    "project_id": "imagica-3c334",
+    "storage_bucket": "imagica-3c334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993355869533:android:4ce1e7a11a7da8ab7e4cb4",
+        "android_client_info": {
+          "package_name": "com.example.imagica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993355869533-kdjbnfdhmf29k1ulc2lme11d4s8kpv2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagica",
+            "certificate_hash": "f01492c4c0c62186de9ffe1a4b4d9104f796ec8b"
+          }
+        },
+        {
+          "client_id": "993355869533-2a9svt26qbik5bdjte5e67l5s5nivoci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDli2GHQ2BAZTt68xbY08Rnbj-5sNqEJdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993355869533-2a9svt26qbik5bdjte5e67l5s5nivoci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

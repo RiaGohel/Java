@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Level4">
+
+    <ImageView
+        android:id="@+id/lev4_1"
+        android:layout_width="match_parent"
+        android:layout_height="350dp" />
+
+    <ImageView
+        android:id="@+id/lev4_2"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="350dp" />
+
+    <ImageView
+        android:id="@+id/lev4_diff1"
+        android:layout_width="291dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="72dp"
+        android:layout_marginBottom="613dp" />
+
+    <ImageView
+        android:id="@+id/lev4_diff2"
+        android:layout_width="94dp"
+        android:layout_height="64dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="61dp"
+        android:layout_marginBottom="336dp" />
+
+    <ImageView
+        android:id="@+id/lev4_diff3"
+        android:layout_width="73dp"
+        android:layout_height="59dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="110dp"
+        android:layout_marginBottom="454dp" />
+
+    <ImageView
+        android:id="@+id/lev4_diff4"
+        android:layout_width="67dp"
+        android:layout_height="94dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="326dp"
+        android:layout_marginBottom="336dp" />
+
+    <ImageView
+        android:id="@+id/lev4_diff5"
+        android:layout_width="107dp"
+        android:layout_height="54dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="121dp"
+        android:layout_marginBottom="559dp" />
+
+    <ImageView
+        android:id="@+id/lev4_diff6"
+        android:layout_width="42dp"
+        android:layout_height="47dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="369dp"
+        android:layout_marginBottom="455dp" />
+
+</RelativeLayout>

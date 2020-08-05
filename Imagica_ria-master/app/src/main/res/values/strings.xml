@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Imagica</string>
+    <string name="button1_text"> Play </string>
+    <string name="button2_text"> Instructions </string>
+    <string name="button3_text"> Exit </string>
+    <string name="button_level1"> Level 1 </string>
+    <string name="button_level2"> Level 2 </string>
+    <string name="button_level3"> Level 3 </string>
+    <string name="button_level4"> Level 4 </string>
+    <string name="button_level5"> Level 5 </string>
+    <string name="button_level6"> Level 6 </string>
+
+</resources>
